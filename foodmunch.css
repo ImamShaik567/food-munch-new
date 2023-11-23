@@ -1,0 +1,54 @@
+.poster-img{
+    background-image: url(foodbanner.jpg);
+    width: 100%;
+}
+.explore-menu-cart{
+    background-color: aqua;
+}
+.explore-heading{
+    
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+
+}
+.menu-cart-item{
+    background-color: aquamarine;
+
+}
+.item-img{
+    border-radius: 20px;
+
+}
+.nav-logo{
+    width: 60px;
+    height: 60px;
+    border-radius: 25px;
+}
+#navHeading1{
+    color: black;
+}
+#navHeading2{
+    color: black;
+}
+#navHeading3{
+    color: black;
+}
+#navHeading{
+    color: black;
+}
+.payment-logo{
+    height: 50px;
+    width: 50px;
+    margin-right: 20px;
+}
+.payment-img{
+    width: 270px;
+}
+.button{
+    border-radius: 12px;
+    background-color: brown;
+    color: white;
+    font-weight: 500;
+    border-width: 0;
+}
